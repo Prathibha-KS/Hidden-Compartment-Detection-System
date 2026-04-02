@@ -35,17 +35,17 @@ By combining **sensor fusion** with **machine learning models**, the system accu
 ---
 
 ## System Setup
-![](images/components)
-![](images/component_setup)
+![](images/components.jpeg)
+![](images/component_setup.jpeg)
 
 ---
 
 ## 📸 Outputs
 
 ### 🔹 Normal Detection
-![Normal](images/normal)
+![Normal](images/normal.jpeg)
 
 ### 🔹 Suspicious Detection
-![Suspicious](images/suspicious)
+![Suspicious](images/suspicious.jpeg)
 
 
